@@ -3,4 +3,4 @@
 ### O que aprender
 - Push
 - Pull
-- Remote
+- Remote (aprendido)
